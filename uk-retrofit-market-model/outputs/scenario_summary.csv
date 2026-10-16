@@ -1,0 +1,4 @@
+scenario,homes_upgraded_m,total_spend_gbp_bn,peak_year,peak_annual_spend_gbp_bn,public_funding_share_pct,private_capital_needed_gbp_bn
+Slow,3.35,19.47,2030,3.84,77.06,4.47
+Base,5.91,34.39,2030,6.05,43.61,19.39
+Accelerated,8.23,47.9,2030,7.61,31.32,32.9

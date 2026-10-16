@@ -1,0 +1,91 @@
+year,tenure,homes,spend_gbp,scenario
+2026,Private rented,53117.0,309043200.0,Slow
+2027,Private rented,159350.0,927129600.0,Slow
+2028,Private rented,265584.0,1545216000.0,Slow
+2029,Private rented,371818.0,2163302400.0,Slow
+2030,Private rented,478051.0,2781388800.0,Slow
+2031,Private rented,0.0,0.0,Slow
+2032,Private rented,0.0,0.0,Slow
+2033,Private rented,0.0,0.0,Slow
+2034,Private rented,0.0,0.0,Slow
+2035,Private rented,0.0,0.0,Slow
+2026,Social,9242.0,53772800.0,Slow
+2027,Social,27727.0,161318400.0,Slow
+2028,Social,46211.0,268864000.0,Slow
+2029,Social,64695.0,376409600.0,Slow
+2030,Social,83180.0,483955200.0,Slow
+2031,Social,101664.0,591500800.0,Slow
+2032,Social,120149.0,699046400.0,Slow
+2033,Social,138633.0,806592000.0,Slow
+2034,Social,157117.0,914137600.0,Slow
+2035,Social,175602.0,1021683200.0,Slow
+2026,Owner occupied,10934.0,63617280.0,Slow
+2027,Owner occupied,32803.0,190851840.0,Slow
+2028,Owner occupied,54671.0,318086400.0,Slow
+2029,Owner occupied,76540.0,445320960.0,Slow
+2030,Owner occupied,98408.0,572555520.0,Slow
+2031,Owner occupied,120276.0,699790080.0,Slow
+2032,Owner occupied,142145.0,827024640.0,Slow
+2033,Owner occupied,164013.0,954259200.0,Slow
+2034,Owner occupied,185882.0,1081493760.0,Slow
+2035,Owner occupied,207750.0,1208728320.0,Slow
+2026,Private rented,75249.0,437811200.0,Base
+2027,Private rented,225746.0,1313433600.0,Base
+2028,Private rented,376244.0,2189056000.0,Base
+2029,Private rented,526742.0,3064678400.0,Base
+2030,Private rented,677239.0,3940300800.0,Base
+2031,Private rented,0.0,0.0,Base
+2032,Private rented,0.0,0.0,Base
+2033,Private rented,0.0,0.0,Base
+2034,Private rented,0.0,0.0,Base
+2035,Private rented,0.0,0.0,Base
+2026,Social,14788.0,86036480.0,Base
+2027,Social,44363.0,258109440.0,Base
+2028,Social,73938.0,430182400.0,Base
+2029,Social,103513.0,602255360.0,Base
+2030,Social,133088.0,774328320.0,Base
+2031,Social,162663.0,946401280.0,Base
+2032,Social,192238.0,1118474240.0,Base
+2033,Social,221813.0,1290547200.0,Base
+2034,Social,251388.0,1462620160.0,Base
+2035,Social,280963.0,1634693120.0,Base
+2026,Owner occupied,25513.0,148440320.0,Base
+2027,Owner occupied,76540.0,445320960.0,Base
+2028,Owner occupied,127566.0,742201600.0,Base
+2029,Owner occupied,178592.0,1039082240.0,Base
+2030,Owner occupied,229619.0,1335962880.0,Base
+2031,Owner occupied,280645.0,1632843520.0,Base
+2032,Owner occupied,331671.0,1929724160.0,Base
+2033,Owner occupied,382698.0,2226604800.0,Base
+2034,Owner occupied,433724.0,2523485440.0,Base
+2035,Owner occupied,484750.0,2820366080.0,Base
+2026,Private rented,84102.0,489318400.0,Accelerated
+2027,Private rented,252305.0,1467955200.0,Accelerated
+2028,Private rented,420508.0,2446592000.0,Accelerated
+2029,Private rented,588711.0,3425228800.0,Accelerated
+2030,Private rented,756914.0,4403865600.0,Accelerated
+2031,Private rented,0.0,0.0,Accelerated
+2032,Private rented,0.0,0.0,Accelerated
+2033,Private rented,0.0,0.0,Accelerated
+2034,Private rented,0.0,0.0,Accelerated
+2035,Private rented,0.0,0.0,Accelerated
+2026,Social,17560.0,102168320.0,Accelerated
+2027,Social,52681.0,306504960.0,Accelerated
+2028,Social,87801.0,510841600.0,Accelerated
+2029,Social,122921.0,715178240.0,Accelerated
+2030,Social,158042.0,919514880.0,Accelerated
+2031,Social,193162.0,1123851520.0,Accelerated
+2032,Social,228282.0,1328188160.0,Accelerated
+2033,Social,263403.0,1532524800.0,Accelerated
+2034,Social,298523.0,1736861440.0,Accelerated
+2035,Social,333643.0,1941198080.0,Accelerated
+2026,Owner occupied,43737.0,254469120.0,Accelerated
+2027,Owner occupied,131211.0,763407360.0,Accelerated
+2028,Owner occupied,218684.0,1272345600.0,Accelerated
+2029,Owner occupied,306158.0,1781283840.0,Accelerated
+2030,Owner occupied,393632.0,2290222080.0,Accelerated
+2031,Owner occupied,481106.0,2799160320.0,Accelerated
+2032,Owner occupied,568579.0,3308098560.0,Accelerated
+2033,Owner occupied,656053.0,3817036800.0,Accelerated
+2034,Owner occupied,743527.0,4325975040.0,Accelerated
+2035,Owner occupied,831001.0,4834913280.0,Accelerated
